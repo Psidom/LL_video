@@ -366,7 +366,7 @@ export default function Home(props) {
     </div>
     <div className="copy-right">
         <div className="container">
-            <p>2015 © All Rights Reserved | Designed and Developed by <a href="https://www.smarteyeapps.com/">Smarteyeapps.com</a></p>
+            <p>2021 © All Rights Reserved | Designed and Developed by <a href="https://github.com/Psidom">psidom.com</a></p>
         </div>
     </div>
     </div>
