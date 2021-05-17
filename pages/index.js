@@ -189,7 +189,8 @@ export default function Home(props) {
                
                <div className="col-md-4 cont-foot">
                    <h4>Contatos</h4>
-                   <h5> (71) 9411-5317</h5>
+                   <h5> <i className="fas fa-mobile"></i> (71) 9411-5317</h5>
+                   <h5> <i className="fas fa-mobile"></i> (71) 98387-5191</h5>
                    <p>Rua Doutor Jose Peroba nº 325 Sala 905 Edf. Elite – Costa Azul – Ssa/Ba</p>
                    <a href="">lelproducaoevideo@gmail.com</a>
                </div>
