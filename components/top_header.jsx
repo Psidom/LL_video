@@ -33,8 +33,8 @@ export default function top() {
             <div className="row">
                 <div className="col-lg-7 col-md-12 left-item">
                     <ul>
-                        <li><i className="fas fa-envelope-square"></i> sales@smarteyeapps.dcom</li>
-                        <li className="d-none d-sm-block"><i className="fas fa-phone-square"></i> +123 987 887 765</li>
+                        <li><i className="fas fa-envelope-square"></i> lelproducaoevideo@gmail.com</li>
+                        <li className="d-none d-sm-block"><i className="fas fa-phone-square"></i> (71) 983875191 </li>
                     </ul>
                 </div>
                 <div className="col-lg-5 d-none d-lg-block right-item">
@@ -54,19 +54,19 @@ export default function top() {
         <div className="container">
             <div className="row">
                 <div className="col-md-3 col-sm-12 logo">
-                    <img className="log" src="assets/images/logo.png" alt=""/>
-                    <img className="log-gray" src="assets/images/logo-gray.png" alt=""/>
+                    <img className="log" src="../images/logo.pg" alt=""/>
+                    <img className="log-gray" src="../images/logo-gray.pg" alt=""/>
                     <a data-toggle="collapse" onClick={setmob} data-target="#nav-head" className={navmob ? 'collapsed' : ' ' } href="#nav-head" aria-expanded ={navmob ? false : true}><i className="fas d-block d-md-none small-menu fa-bars" ></i></a>
                 </div>
                 <div id="nav-head" className={navmob ? 'col-md-9 nav-div d-none d-md-block collapse': 'col-md-9 nav-div d-none d-md-block collapse show'}>
                     <ul>
                         <li><a className="js-scroll-trigger" href="index.html">Home</a></li>
-                        <li><a className="js-scroll-trigger" href="about_us.html">About Company</a></li>
-                        <li className="yc"><a className="js-scroll-trigger" href="why.html">Why Choos Us</a></li>
-                        <li><a className="js-scroll-trigger" href="service.html">Services</a></li>
-                        <li><a className="js-scroll-trigger" href="blog.html">Our Blog</a></li>
+                        <li><a className="js-scroll-trigger" href="about_us.html">Sobre a L&L</a></li>
+                        <li className="yc"><a className="js-scroll-trigger" href="why.html">Porque Nós</a></li>
+                        <li><a className="js-scroll-trigger" href="service.html">Serviços</a></li>
+                        <li><a className="js-scroll-trigger" href="blog.html">Blog</a></li>
                    
-                        <li><a className="js-scroll-trigger" href="contact_us.html">Contact Us</a></li>
+                        <li><a className="js-scroll-trigger" href="contact_us.html">Contatos</a></li>
                     </ul>
                 </div>
             </div>
