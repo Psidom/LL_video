@@ -114,10 +114,7 @@ export default function Home(props) {
     <section className="with-medical">
         <div className="container">
             <div className="row">
-                <div className="col-lg-6 col-md-12">
-                    <img src="assets/images/about.jpg" alt=""/>
-                </div>
-                <div className="col-lg-6 col-md-12 txtr">
+                <div className=" col-md-12 txtr">
                     <center>
                         <h4>Porque Nós<br/>
                             <span>L&L Produção Vídeo</span>
